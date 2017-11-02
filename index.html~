@@ -704,7 +704,7 @@
                                             <h2>Мы ждём тебя в субботу, 4 ноября, с 20:00 до 06:00. М. Площадь Ленина, ул. Ленина, 35 А</h2><hr>
                                             <p class="desc-text1">После регистрации мы отправим тебе на e-mail приглашение с подробной схемой прохода в наш клуб</p>                                            
                                             <p class="desc-text1"> Количество гостей на вечеринке строго ограничено - 20 девушек и 15 мужчин   
-                                             Поэтому для того, чтобы не оказаться среди тех, кому не хватило места, необходимо зарегистрироваться <b>не позднее, чем за 12 часов</b> до начала мероприятия!</p>                                   
+                                             <br>Поэтому для того, чтобы не оказаться среди тех, кому не хватило места, необходимо зарегистрироваться <b>не позднее, чем за 12 часов</b> до начала мероприятия!</p>                                   
                            	 </div>
                           	</div>                                                       
                             <section  id="registrationform"  class="description_content">
@@ -729,7 +729,7 @@
                                            <br>
                                            <br>
                                            <br>
-                                           <br>	<button type="submit" id="submit" name="submit" onclick="javascript:window.location='fmen/1pay_MEN.html'"><b>Мужчинам<br>2500 рублей</b></button>  
+                                           <br>	<button type="submit" id="submit" name="submit" onclick="javascript:window.location='fmen/1pay_MEN.html'"><b>Мужчинам<br>2450 рублей</b></button>  
 
                     
                 </div>
